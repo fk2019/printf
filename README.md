@@ -1,1 +1,5 @@
-# 0x11.c - printf
+# 0x11 - printf
+
+## Tasks
+Write a function that produces output according to a format (c and s)
+## My thoughts
